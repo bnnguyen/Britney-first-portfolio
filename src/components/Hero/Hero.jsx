@@ -12,8 +12,8 @@ export const Hero = () => {
                 Reach out if you'd like to learn more!
             </p>
             <div className={styles.heroBtn}>
-                <a href='mailto:britney.nguyen249@gmail.com'>Contact Me</a>
-                <a href='https://drive.google.com/file/d/1pCDALE3cORw-o3jG5892BWJZj48I3iYm/view?usp=sharing'>Resume</a>
+                <a href='#contact' target="_blank">Contact Me</a>
+                <a href='https://drive.google.com/file/d/1pCDALE3cORw-o3jG5892BWJZj48I3iYm/view?usp=sharing' target="_blank">Resume</a>
             </div>
         </div>
         <img className={styles.heroImg} src={heroImg} alt="Hero image of me"/>
