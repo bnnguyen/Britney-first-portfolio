@@ -12,7 +12,7 @@ export const Hero = () => {
                 Reach out if you'd like to learn more!
             </p>
             <div className={styles.heroBtn}>
-                <a href='#contact' target="_blank">Contact Me</a>
+                <a href='#contact'>Contact Me</a>
                 <a href='https://drive.google.com/file/d/1pCDALE3cORw-o3jG5892BWJZj48I3iYm/view?usp=sharing' target="_blank">Resume</a>
             </div>
         </div>
