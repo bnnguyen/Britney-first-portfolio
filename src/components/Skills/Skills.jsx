@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Skills.module.css";
-import tickIcon from "../../../public/assets/skills/tickIcon.png";
+import tickIcon from "../../../assets/skills/tickIcon.png";
 
 export const Skills = () => {
   return (

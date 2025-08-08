@@ -1,14 +1,14 @@
 import React from "react";
 
 import styles from "./Projects.module.css";
-import SFPic from "../../../public/assets/projects/SoulBound.jpg"
-import PFPic from "../../../public/assets/projects/PathFinder.png"
-import PNPic from "../../../public/assets/projects/pniwf.png"
-import PTPic from "../../../public/assets/projects/PLANTrees.png"
-import triangPic from "../../../public/assets/projects/triangles.jpg"
-import ClockPic from "../../../public/assets/projects/clock.jpg"
-import WPPic from "../../../public/assets/projects/wp.jpg"
-import EBCPic from "../../../public/assets/projects/ebc.png"
+import SFPic from "../../../assets/projects/SoulBound.jpg"
+import PFPic from "../../../assets/projects/PathFinder.png"
+import PNPic from "../../../assets/projects/pniwf.png"
+import PTPic from "../../../assets/projects/PLANTrees.png"
+import triangPic from "../../../assets/projects/triangles.jpg"
+import ClockPic from "../../../assets/projects/clock.jpg"
+import WPPic from "../../../assets/projects/wp.jpg"
+import EBCPic from "../../../assets/projects/ebc.png"
 
 export const Projects = () => {
   return (
