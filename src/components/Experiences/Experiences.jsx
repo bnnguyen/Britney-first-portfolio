@@ -1,10 +1,10 @@
 import React from "react"
 import styles from "./Experiences.module.css"
-import DESLabLogo from "../../../assets/experiences/DESLabLogo.jfif"
-import AWSLogo from "../../../assets/experiences/AWSLogo.png"
-import fablabLogo from "../../../assets/experiences/fablabLogo.jfif"
-import PRISEELogo from "../../../assets/experiences/PRISEELogo.jpg"
-import GoogleLogo from "../../../assets/experiences/GoogleLogo.jfif"
+import DESLabLogo from "../../../public/assets/experiences/DESLabLogo.jfif"
+import AWSLogo from "../../../public/assets/experiences/AWSLogo.png"
+import fablabLogo from "../../../public/assets/experiences/fablabLogo.jfif"
+import PRISEELogo from "../../../public/assets/experiences/PRISEELogo.jpg"
+import GoogleLogo from "../../../public/assets/experiences/GoogleLogo.jfif"
 
 export const Experiences = () => {
     return (

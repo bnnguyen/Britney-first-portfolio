@@ -1,7 +1,7 @@
 import React from "react";
-import educationIcon from "../../../assets/about/educationIcon.png";
-import aboutImage from "../../../assets/about/aboutImage.png";
-import skillIcon from "../../../assets/about/skillIcon.png";
+import educationIcon from "../../../public/assets/about/educationIcon.png";
+import aboutImage from "../../../public/assets/about/aboutImage.png";
+import skillIcon from "../../../public/assets/about/skillIcon.png";
 import styles from "./About.module.css";
 
 export const About = () => {
