@@ -26,7 +26,6 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3><img src={educationIcon} alt="Education Icon"/> Education</h3>
               <p>
-              <br></br>
                 Computer Science and Mathematical Economics; Geography minor <br></br>
                 University of Richmond<br></br>
                 May 2028<br></br>
@@ -38,7 +37,6 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3><img alt="Skill Icon" src={skillIcon}/> Core Skills</h3>
               <p>
-              <br></br>
                 Full-Stack Development<br></br>
                 Machine Learning<br></br>
                 OOP & DSA<br></br>

@@ -58,7 +58,7 @@ export const Skills = () => {
               <li><img src={tickIcon} alt="tick" className={styles.icon} /> Docker</li>
               <li><img src={tickIcon} alt="tick" className={styles.icon} /> Git & GitHub</li>
               <li><img src={tickIcon} alt="tick" className={styles.icon} /> Linux</li>
-              <li><img src={tickIcon} alt="tick" className={styles.icon} /> AWS(SageMaker, EC2, S3)/Azure</li>
+              <li><img src={tickIcon} alt="tick" className={styles.icon} /> AWS (SageMaker, EC2, S3)/Azure</li>
             </ul>
           </div>
         </div>

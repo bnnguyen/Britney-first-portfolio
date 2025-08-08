@@ -9,5 +9,10 @@ export default defineConfig({
     modules: {
       localsConvention: "camelCase",
     }
+  },
+  module: {
+    loaders: [
+      { test: /\.(png|jpg)$/, loader: 'url-loader?limit=8192' }
+    ]
   }
 })

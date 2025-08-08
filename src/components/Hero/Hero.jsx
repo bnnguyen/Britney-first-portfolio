@@ -1,5 +1,5 @@
 import React from 'react'
-import heroImg from "../../../assets/hero/formal.png"
+import heroImg from "../../../assets/hero/hero.jpg"
 import styles from "./Hero.module.css"
 
 export const Hero = () => {
@@ -13,7 +13,7 @@ export const Hero = () => {
             </p>
             <div className={styles.heroBtn}>
                 <a href='#contact'>Contact Me</a>
-                <a href='https://drive.google.com/file/d/1pCDALE3cORw-o3jG5892BWJZj48I3iYm/view?usp=sharing' target="_blank">Resume</a>
+                <a href='https://drive.google.com/file/d/1Vayh_meS_b5lLawBW7AO-RtvymPNJOMO/view?usp=sharing' target="_blank">Resume</a>
             </div>
         </div>
         <img className={styles.heroImg} src={heroImg} alt="Hero image of me"/>
