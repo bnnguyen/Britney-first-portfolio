@@ -100,7 +100,7 @@ export const Projects = () => {
           />
           <h3 className={styles.prjtitle}>Eyeblink Counter & Frequency Calculator</h3>
           <div className={styles.links}>
-            <a href="https://github.com/bnnguyen/Clock_Ver1" className={styles.link} target="_blank">
+            <a href="https://github.com/bnnguyen/EyeBlinkCounterAndFrequency" className={styles.link} target="_blank">
               Source
             </a>
           </div>
