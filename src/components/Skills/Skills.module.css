@@ -91,7 +91,7 @@ li {
   margin-right: 0.5rem;
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 930px) {
   .skillBox {
     flex: 1 1 100%;
     max-width: 100%;
