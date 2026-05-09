@@ -25,7 +25,7 @@ export const Skills = () => {
           <div className={styles.innerBox}>
             <h3>Frameworks & Technologies</h3>
             <ul className={styles.twoColumn}>
-              <li><img src={tickIcon} alt="tick" className={styles.icon} /> SQL & noSQL</li>
+              <li><img src={tickIcon} alt="tick" className={styles.icon} /> SQL & NoSQL</li>
               <li><img src={tickIcon} alt="tick" className={styles.icon} /> Node.js</li>
               <li><img src={tickIcon} alt="tick" className={styles.icon} /> React</li>
               <li><img src={tickIcon} alt="tick" className={styles.icon} /> REST API</li>
